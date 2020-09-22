@@ -1,9 +1,8 @@
 # Solar-System-Simulation
 
-Game Download: 
 
 Step1:
-Download Setup File.
+Download Setup File (Sloar Simulation Setup (x64).exe).
 
 Step2:
 Setup
