@@ -1,8 +1,9 @@
 # Solar-System-Simulation Vr. 0.1
 
+To Play:-
 
 Step1:
-Download Setup File (Sloar Simulation Setup (x64).exe).
+Download Setup File Only (Sloar Simulation Setup (x64).exe).
 
 Step2:
 Setup
