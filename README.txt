@@ -1,5 +1,11 @@
 # Solar-System-Simulation
 
+Game Download: 
+
+Step1:
+Download Setup File.
+
+Step2:
 Setup
 and 
 Play
