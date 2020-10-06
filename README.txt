@@ -1,4 +1,4 @@
-# Solar-System-Simulation Vr. 0.1
+# Solar-System-Simulation Vr. 0.1 Demo
 
 Latest Releases: https://github.com/ImAbuSayed/Solar-System-Simulation/releases
 
